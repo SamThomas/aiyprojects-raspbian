@@ -1,4 +1,3 @@
-<img src="https://aiyprojects.withgoogle.com/static/images/icons/aiy-circular-logo.svg" width="40%">
 
 This repository contains an easy-to-use API for the AIY Vision Kit and
 AIY Voice Kit.
